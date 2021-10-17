@@ -1,8 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as img
-import math
-from random import random, randint
+from random import randint
 
 
 def show_result(image):
